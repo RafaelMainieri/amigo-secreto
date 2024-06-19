@@ -23,7 +23,7 @@ Este é um projeto de uma aplicação que facilita o sorteio para um jogo de ami
 - Botão Reiniciar = O sistema reinicia o sorteador, zerando todos os campos preenchidos
 
 ## Como Executar
-1. Acesso ao site: [Clique Aqui](https://rafaelmainieri.github.io/carrinho-compras/);
+1. Acesso ao site: [Clique Aqui](https://rafaelmainieri.github.io/amigo-secreto/);
 2. O usuario deve adicionar os nomes à lista do sorteio (sempre se atentando às validações);
 3. Clicar no botão "Adicionar";
 4. Após conferir os nomes da lista do sorteio, clicar no botão "Sortear";
