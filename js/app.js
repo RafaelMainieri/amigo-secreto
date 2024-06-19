@@ -1,6 +1,9 @@
+let amigos = [];
+
 function adicionar() {
     let amigo = document.getElementById('nome-amigo');
     let lista = document.getElementById('lista-amigos');
+    amigos.push(amigos.value);
 
     if (lista.textContent == '') {
         lista.textContent = amigo.value;
@@ -9,5 +12,15 @@ function adicionar() {
     }
 
     amigo.value = '';
-    
+}
+
+function sortear() {
+    embaralha(amigos);
+}
+
+function embaralha(lista) {
+    for (let indice = lista.length; indice; indice--) {
+        const indiceAleatorio = Math.floor(Math.random() * indice);
+        [lista[indice - 1], lista[indiceAleatorio]] = [lista[indiceAleatorio], lista[indice - 1]];
+    }
 }
