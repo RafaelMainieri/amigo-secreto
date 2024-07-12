@@ -7,12 +7,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="25" height="25" />
 </div>
 
-## Sobre
+## 💡 Sobre
 Projeto criado no curso da Alura [Lógica de Programação: praticando com desafios](https://cursos.alura.com.br/course/logica-programacao-praticando-desafios), disponibilizado pelo programa [Geração Caldeira](https://www.geracaocaldeira.org/) do [Instituto Caldeira](https://institutocaldeira.org.br/), do qual fui selecionado para participar da etapa online.<br>
 
 Este é um projeto de uma aplicação que facilita o sorteio para um jogo de amigo secreto. Você pode adicionar o nome de todos os seus amigos e fazer um sorteio aleatório para que a brincadeira fique mais divertida e dinâmica! O sistema conta com algumas validações como conferir a repetição dos nomes inseridos, confere se de fato foi escrito algum nome no campo para inseri-lo e pede um mínimo de 4 integrantes para o sorteio.
 
-## Funcionalidades
+## 🛠 Funcionalidades
 - Adicionar nomes na lista = O usuário insere o nome do amigo no campo "Nome do Amigo" e clica no botão adicionar;
 - Botão Adicionar = O programa cria um array na abertura do site e adiciona o nome digitado nesse array;
 - Validações<br>
@@ -22,7 +22,7 @@ Este é um projeto de uma aplicação que facilita o sorteio para um jogo de ami
 - Botão Sortear = São embaralhados os nomes adicionados na lista de sorteio e apresentados na tela do usuário;
 - Botão Reiniciar = O sistema reinicia o sorteador, zerando todos os campos preenchidos
 
-## Como Executar
+## 🖱️ Como Executar
 1. Acesso ao site: [Clique Aqui](https://rafaelmainieri.github.io/amigo-secreto/);
 2. O usuario deve adicionar os nomes à lista do sorteio (sempre se atentando às validações);
 3. Clicar no botão "Adicionar";
